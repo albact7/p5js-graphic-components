@@ -1,5 +1,8 @@
 # P5jsGraphicComponents
 
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![star this repo](http://githubbadges.com/star.svg?user=albact7&repo=p5js-graphic-components&style=flat)](https://github.com/albact7/p5js-graphic-components)
+
 ## Run with Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
