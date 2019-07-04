@@ -17,7 +17,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Components
 
 ### Basketball ball bouncing spinner
-Properties
+#### Getting started
+```
+<app-bball-spinner></app-bball-spinner>
+```
+#### Properties
 
 | Name             | Type   | Default | Description                            |
 |------------------|--------|---------|----------------------------------------|
