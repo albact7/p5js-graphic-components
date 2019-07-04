@@ -2,10 +2,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import { BballSpinnerComponent } from './bball-spinner/bball-spinner.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BballSpinnerComponent
   ],
   imports: [
     BrowserModule
