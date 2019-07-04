@@ -31,11 +31,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Basketball ball bouncing spinner
 Properties
-| Name | Type | Default | Description |
-| -- | -- | -- | -- |
-| margin_left | string | '35vw' | Margin to left side of screen |
-| margin_top | string | '20vh' | Margin to top of screen |
-| red_background | number | 255 | Red value (RGB) for background color | 
-| green_background | number | 255 | Green value (RGB) for background color |
-| blue_background | number | 255 | Blue value (RGB) for background color | 
 
+| Name             | Type   | Default | Description                            |
+|------------------|--------|---------|----------------------------------------|
+| margin_left      | string | '35vw'  | Margin to left side of screen          |
+| margin_top       | string | '20vh'  | Margin to top of screen                |
+| red_background   | number | 255     | Red value (RGB) for background color   |
+| green_background | number | 255     | Green value (RGB) for background color |
+| blue_background  | number | 255     | Blue value (RGB) for background color  |
